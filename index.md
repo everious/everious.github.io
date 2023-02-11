@@ -1,59 +1,11 @@
----
+title: Everious AB
 layout: home
-permalink: /
+description: We deliver highly qualified work and sustainable solutions.
+show_call_box: true
 ---
 
+# We deliver highly qualified work and sustainable solutions.
 
-Who we are
-===
-We are your e-business partner.
+Everious combines technical expertise with a deep understanding of our clients' goals to provide customized, innovative IT solutions that meet their unique needs. We are dedicated to ensuring that our work meets the highest standards of quality, efficiency, and reliability, so that our clients can focus on their core business while we handle their IT infrastructure.
 
-We specialize in Spree Commerce. Spree Commerce is a open source and modern e-commerce platform that gives you complete control over your store. It's the only store framework your ever need.
-
-We locates in Stockholm Sweden. 
-
-E-Commerce Services
-===
-## Essential E-Commerce Package
-* Eessential ecommerce features out of the box
-**** Integrate smoothly with the most popular payment services like Klarna, Dibs in nordic countries
-* Logistics integration
-* Build your digital inventory
-* Transfer your data from your legacy platform like Magento
-
-## Completed Customized Design
-* 100% customized design for your business
-* We use ReactJS for building user interfaces
-
-## Everthing in the Cloud
-* Your e-business is host in the cloud
-* Auto-scaled soluition from small to large
-
-## Production Support
-* Quick response to your request
-* 7/24 monitoring
-* Long-term support and security concerned
-
-What we use
-===
-* Amazon AWS
-* Kubernates
-* Docker
-* Ruby
-* Ruby on Rails
-* React
-* Redux
-* Spree Commerce
-* Klarna
-* DIBS
-* PostNord
-* DBSchenker
-* DHL
-
-Contact Us
-===
-Pengyu Zhao
-
-<pengyu@everious.com>
-
-+46 (0) 76 283 88 88
+With years of experience and a proven track record of success, we are confident in our ability to deliver the results that our clients expect and deserve. Whether you need help with cloud computing, cybersecurity, software development, or any other IT-related need, we are here to help you succeed.

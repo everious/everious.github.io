@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Sustainable",
+    "description": "Deliver environmentally and socially responsible technology solutions",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Highly qualified",
+    "description": "A commitment to delivering the best possible outcomes for clients",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Passionated",
+    "description": "We Delivering work with energy, dedication, and a genuine desire to exceed clients' expectations.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
